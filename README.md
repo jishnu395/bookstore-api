@@ -55,7 +55,8 @@ Features CRUD operations, search, pagination, global error handling, and interac
 
 ## 🖼️ Screenshots
 
-- Swagger UI main page
+<img width="3840" height="2092" alt="image" src="https://github.com/user-attachments/assets/d7d28dd6-7695-47a6-ba3b-8b876245b09a" />
+
 
 ---
 
